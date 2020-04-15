@@ -1,9 +1,3 @@
-####################################################
-# Modified by Nazmi Asri                           #
-# Original code: http://thecodacus.com/            #
-# All right reserved to the respective owner       #
-####################################################
-
 # Import OpenCV2 for image processing
 import cv2
 
@@ -79,7 +73,7 @@ while True:
             led_on()
             
         elif((Id == 2) and (conf < 80)):
-            Id = "Archana"
+            Id = "Dinesh"
             led_on()
 
         elif((Id == 3) and (conf < 80)):
